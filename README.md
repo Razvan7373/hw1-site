@@ -1,5 +1,5 @@
 Scenariu Ales
- Personal Brand Portfolio + CV**
+ Personal Brand Portfolio + CV
 
  Detalii Student
 - Nume: Ranga Razvan Giani Stefan
